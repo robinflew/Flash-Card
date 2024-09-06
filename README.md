@@ -1,2 +1,2 @@
 # flash-card
-Flash Card App
+A very basic Flash Card App
